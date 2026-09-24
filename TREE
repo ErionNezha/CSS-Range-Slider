@@ -1,0 +1,10 @@
+CSS-Range-Slider/
+  demo/
+  demo/index.html
+  demo/script.js
+  demo/style.css
+  demo/jquery.min.js
+  original/
+  original/index.html
+  original/script.js
+  original/style.css
